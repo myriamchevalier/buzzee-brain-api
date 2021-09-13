@@ -1,0 +1,32 @@
+{
+    "households": [
+        {
+            "id": 1,
+            "name" : "The Chevalier House"
+        }
+    ],
+    "users": [
+        {
+            "id": 1,
+            "name" : "Myriam",
+            "email": "myriam@chevalier.com",
+            "householdId": 1
+        }
+    ],
+    "whereBeez": [
+        {
+            "id": 1,
+            "userId": 1,
+            "itemId" : 1,
+            "whereIs": "Living room, in transparent folder, on the shelving unit in the corner.",
+            "lastUpdated" : "08/04/2021"
+        }
+    ],
+    "items": [
+        {
+            "id": 1,
+            "name": "Myriam's Passport",
+            "description" : "A Canadian passport, dark blue"
+        }
+    ]
+}
